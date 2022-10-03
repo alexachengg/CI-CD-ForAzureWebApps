@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ChrisWebAppWithCICD'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70DB8FB2EB564D368498C8CB5523BCE9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06B289BF441F42B990868B1EA6B9A137 }}
           package: .
